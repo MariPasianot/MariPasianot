@@ -1,16 +1,16 @@
-## Hi there 👋
+### Esse é o meu perfil, seja bem vindo 🐱
 
-<!--
-**MariPasianot/MariPasianot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mariana 
 
-Here are some ideas to get you started:
+- Faço curso de inglês
+- Estou no segundo ano do ensino médio
+- Estou aprendendo a usar Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode me enviar mensagens através do meu email ⬇️
+
+00001119297709sp@al.educacao.sp.gov.br
+
+
+
+ 
+ ![](https://media1.tenor.com/m/IjVr_bWPhLEAAAAd/kenny-south-park.gif)
